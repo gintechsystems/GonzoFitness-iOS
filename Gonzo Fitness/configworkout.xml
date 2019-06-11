@@ -1,0 +1,927 @@
+<data>
+	<workouts>
+		<workout id="1" exercises="16" type="workout">
+			<name>Workout #1</name>
+            
+			<exercises>
+				<exercise id="1">1. Gonzo Jacks </exercise>
+				<exercise id="2">2. Sumo Stance Punches with Weight</exercise>
+				<exercise id="3">3. Muay Thai Knees</exercise>
+				<exercise id="4">4. Gonzo Full Body Blasts</exercise>
+				<exercise id="5">5. Squat to Lateral Raise</exercise>
+				<exercise id="6">6. Pushup to Core Crunch</exercise>
+				<exercise id="7">7. Lunge Press</exercise>
+				<exercise id="8">8. Pull Up Knee Raise</exercise>
+				<exercise id="9">9. Squat Kicks</exercise>
+				<exercise id="10">10. Bicep Curl to Triceps Extension</exercise>
+				<exercise id="11">11. Swiss Ball Shoulder Press</exercise>
+				<exercise id="12">12. Pushup Knee Strikes</exercise>
+				<exercise id="13">13. Row Extensions</exercise>
+				<exercise id="14">14. Lunge Jumps</exercise>
+				<exercise id="15">15. Drop Steps</exercise>
+				<exercise id="16">16. Gonzo Challenge - Core Roll</exercise>
+			</exercises>
+			
+			<images>
+				<image id="1">./videos/thumbnails/1-1.jpg</image>
+				<image id="2">./videos/thumbnails/1-2.jpg</image>
+				<image id="3">./videos/thumbnails/1-3.jpg</image>
+				<image id="4">./videos/thumbnails/1-4.jpg</image>
+				<image id="5">./videos/thumbnails/1-5.jpg</image>
+				<image id="6">./videos/thumbnails/1-6.jpg</image>
+				<image id="7">./videos/thumbnails/1-7.jpg</image>
+				<image id="8">./videos/thumbnails/1-8.jpg</image>
+				<image id="9">./videos/thumbnails/1-9.jpg</image>
+				<image id="10">./videos/thumbnails/1-10.jpg</image>
+				<image id="11">./videos/thumbnails/1-11.jpg</image>
+				<image id="12">./videos/thumbnails/1-12.jpg</image>
+				<image id="13">./videos/thumbnails/1-13.jpg</image>
+				<image id="14">./videos/thumbnails/1-14.jpg</image>
+				<image id="15">./videos/thumbnails/1-15.jpg</image>
+				<image id="16">./videos/thumbnails/1-16.jpg</image>
+			</images>
+            
+			<videos>
+				<video id="1">./videos/G1/mobile/1.mp4</video>
+				<video id="2">./videos/G1/mobile/2.mp4</video>
+				<video id="3">./videos/G1/mobile/3.mp4</video>
+				<video id="4">./videos/G1/mobile/4.mp4</video>
+				<video id="5">./videos/G1/mobile/5.mp4</video>
+				<video id="6">./videos/G1/mobile/6.mp4</video>
+				<video id="7">./videos/G1/mobile/7.mp4</video>
+				<video id="8">./videos/G1/mobile/8.mp4</video>
+				<video id="9">./videos/G1/mobile/9.mp4</video>
+				<video id="10">./videos/G1/mobile/10.mp4</video>
+				<video id="11">./videos/G1/mobile/11.mp4</video>
+				<video id="12">./videos/G1/mobile/12.mp4</video>
+				<video id="13">./videos/G1/mobile/13.mp4</video>
+				<video id="14">./videos/G1/mobile/14.mp4</video>
+				<video id="15">./videos/G1/mobile/15.mp4</video>
+				<video id="16">./videos/G1/mobile/16.mp4</video>
+			</videos>
+		</workout>
+        
+		<workout id="2" exercises="11" type="workout">
+			<name>Workout #2</name>
+            
+			<exercises>
+				<exercise id="1">1. Jump Rope</exercise>
+				<exercise id="2">2. Sumo Stance Blocks</exercise>
+				<exercise id="3">3. Alternating Dumbbell Bench Press</exercise>
+				<exercise id="4">4. Reverse Flies on Swiss Ball</exercise>
+				<exercise id="5">5. Wide Grip Pull Ups</exercise>
+				<exercise id="6">6. Standing Shoulder Press</exercise>
+				<exercise id="7">7. Triceps Overhead Press</exercise>
+				<exercise id="8">8. Bicep Curls with Exercise Bands</exercise>
+				<exercise id="9">9. Dead Lifts to Bent Over Rows</exercise>
+				<exercise id="10">10. Swiss Ball Front Kicks</exercise>
+				<exercise id="11">11. Gonzo Challenge - 50 Pushups</exercise>
+			</exercises>
+			
+			<images>
+				<image id="1">./videos/thumbnails/2-1.jpg</image>
+				<image id="2">./videos/thumbnails/2-2.jpg</image>
+				<image id="3">./videos/thumbnails/2-3.jpg</image>
+				<image id="4">./videos/thumbnails/2-4.jpg</image>
+				<image id="5">./videos/thumbnails/2-5.jpg</image>
+				<image id="6">./videos/thumbnails/2-6.jpg</image>
+				<image id="7">./videos/thumbnails/2-7.jpg</image>
+				<image id="8">./videos/thumbnails/2-8.jpg</image>
+				<image id="9">./videos/thumbnails/2-9.jpg</image>
+				<image id="10">./videos/thumbnails/2-10.jpg</image>
+				<image id="11">./videos/thumbnails/2-11.jpg</image>
+			</images>
+            
+			<videos>
+				<video id="1">./videos/G2/mobile/1.mp4</video>
+				<video id="2">./videos/G2/mobile/2.mp4</video>
+				<video id="3">./videos/G2/mobile/3.mp4</video>
+				<video id="4">./videos/G2/mobile/4.mp4</video>
+				<video id="5">./videos/G2/mobile/5.mp4</video>
+				<video id="6">./videos/G2/mobile/6.mp4</video>
+				<video id="7">./videos/G2/mobile/7.mp4</video>
+				<video id="8">./videos/G2/mobile/8.mp4</video>
+				<video id="9">./videos/G2/mobile/9.mp4</video>
+				<video id="10">./videos/G2/mobile/10.mp4</video>
+				<video id="11">./videos/G2/mobile/11.mp4</video>
+			</videos>
+            
+		</workout>
+        <workout id="3" exercises="11" type="workout">
+			<name>Workout #3</name>
+            
+                    <exercises>
+                        <exercise id="1">1. Gonzo Jacks</exercise>
+                        <exercise id="2">2A. Shadow Boxing</exercise>
+                        <exercise id="3">2B. Heavy Bag Boxing</exercise>
+                        <exercise id="4">3. Upper Cut Squat</exercise>
+                        <exercise id="5">4. Superman Shoulder Presses</exercise>
+                        <exercise id="6">5. Reverse Lunge to Lateral Raise</exercise>
+                        <exercise id="7">6. Pike Pushups with Grips and Platform</exercise>
+                        <exercise id="8">7. Close Grip Chin Ups</exercise>
+                        <exercise id="9">8. Lower Back Extensions</exercise>
+                        <exercise id="10">9. Hanging Leg Raises</exercise>
+                        <exercise id="11">10. 45 Degree Bicep Curls</exercise>
+                        <exercise id="12">11. Gonzo Challenge - 30 Swiss Ball Crunches</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/3-1.jpg</image>
+                        <image id="2">./videos/thumbnails/3-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/3-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/3-3.jpg</image>
+                        <image id="5">./videos/thumbnails/3-4.jpg</image>
+                        <image id="6">./videos/thumbnails/3-5.jpg</image>
+                        <image id="7">./videos/thumbnails/3-6.jpg</image>
+                        <image id="8">./videos/thumbnails/3-7.jpg</image>
+                        <image id="9">./videos/thumbnails/3-8.jpg</image>
+                        <image id="10">./videos/thumbnails/3-9.jpg</image>
+                        <image id="11">./videos/thumbnails/3-10.jpg</image>
+                        <image id="12">./videos/thumbnails/3-11.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G3/mobile/1.mp4</video>
+                        <video id="2">./videos/G3/mobile/2A.mp4</video>
+                        <video id="3">./videos/G3/mobile/2B.mp4</video>
+                        <video id="4">./videos/G3/mobile/3.mp4</video>
+                        <video id="5">./videos/G3/mobile/4.mp4</video>
+                        <video id="6">./videos/G3/mobile/5.mp4</video>
+                        <video id="7">./videos/G3/mobile/6.mp4</video>
+                        <video id="8">./videos/G3/mobile/7.mp4</video>
+                        <video id="9">./videos/G3/mobile/8.mp4</video>
+                        <video id="10">./videos/G3/mobile/9.mp4</video>
+                        <video id="11">./videos/G3/mobile/10.mp4</video>
+                        <video id="12">./videos/G3/mobile/11.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="4" exercises="16" type="workout">
+                    <name>Workout #4</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Running in Place</exercise>
+                        <exercise id="2">2A. Shadow Muay Thai</exercise>
+                        <exercise id="3">2B. Heavy Bag Muay Thai</exercise>
+                        <exercise id="4">3. Gonzo Kick Combo - Front Kick to Round House Kick</exercise>
+                        <exercise id="5">4. Clean and Jerk to Press</exercise>
+                        <exercise id="6">5. Inch Worm </exercise>
+                        <exercise id="7">6. Side Lunge to Curl</exercise>
+                        <exercise id="8">7. Upright Row to Shoulder Raise to Toe Raise</exercise>
+                        <exercise id="9">8. Plyometric Pushups</exercise>
+                        <exercise id="10">9. Close Grip Pull Ups</exercise>
+                        <exercise id="11">10. Flies on Swiss Ball</exercise>
+                        <exercise id="12">11. Twisting Bent Over Rows</exercise>
+                        <exercise id="13">12. Seated Bicep Curl on Swiss Ball</exercise>
+                        <exercise id="14">13. Triceps Dips on Bench and Swiss Ball</exercise>
+                        <exercise id="15">14. Swiss Ball Crunches - Straight to Twists</exercise>
+                        <exercise id="16">15. Swiss Ball Knee Raises</exercise>
+                        <exercise id="17">16. Gonzo Challenge - 30 Gonzo Pushups</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/4-1.jpg</image>
+                        <image id="2">./videos/thumbnails/4-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/4-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/4-3.jpg</image>
+                        <image id="5">./videos/thumbnails/4-4.jpg</image>
+                        <image id="6">./videos/thumbnails/4-5.jpg</image>
+                        <image id="7">./videos/thumbnails/4-6.jpg</image>
+                        <image id="8">./videos/thumbnails/4-7.jpg</image>
+                        <image id="9">./videos/thumbnails/4-8.jpg</image>
+                        <image id="10">./videos/thumbnails/4-9.jpg</image>
+                        <image id="11">./videos/thumbnails/4-10.jpg</image>
+                        <image id="12">./videos/thumbnails/4-11.jpg</image>
+                        <image id="13">./videos/thumbnails/4-12.jpg</image>
+                        <image id="14">./videos/thumbnails/4-13.jpg</image>
+                        <image id="15">./videos/thumbnails/4-14.jpg</image>
+                        <image id="16">./videos/thumbnails/4-15.jpg</image>
+                        <image id="17">./videos/thumbnails/4-16.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G4/mobile/1.mp4</video>
+                        <video id="2">./videos/G4/mobile/2A.mp4</video>
+                        <video id="3">./videos/G4/mobile/2B.mp4</video>
+                        <video id="4">./videos/G4/mobile/3.mp4</video>
+                        <video id="5">./videos/G4/mobile/4.mp4</video>
+                        <video id="6">./videos/G4/mobile/5.mp4</video>
+                        <video id="7">./videos/G4/mobile/6.mp4</video>
+                        <video id="8">./videos/G4/mobile/7.mp4</video>
+                        <video id="9">./videos/G4/mobile/8.mp4</video>
+                        <video id="10">./videos/G4/mobile/9.mp4</video>
+                        <video id="11">./videos/G4/mobile/10.mp4</video>
+                        <video id="12">./videos/G4/mobile/11.mp4</video>
+                        <video id="13">./videos/G4/mobile/12.mp4</video>
+                        <video id="14">./videos/G4/mobile/13.mp4</video>
+                        <video id="15">./videos/G4/mobile/14.mp4</video>
+                        <video id="16">./videos/G4/mobile/15.mp4</video>
+                        <video id="17">./videos/G4/mobile/16.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="5" exercises="11" type="workout">
+                    <name>Workout #5</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Running in Place with High Knees</exercise>
+                        <exercise id="2">2A. Shadow Kick Boxing</exercise>
+                        <exercise id="3">2B. Heavy Bag Kick Boxing</exercise>
+                        
+                        <exercise id="4">3. Pushup to Row to Triceps Kickback</exercise>
+                        <exercise id="5">4. Squat to Bicep Curl</exercise>
+                        <exercise id="6">5. L's and Knee Raises </exercise>
+                        <exercise id="7">6. Oblique Twists to Knee Raises</exercise>
+                        <exercise id="8">7. Swiss Ball Rope Climb</exercise>
+                        <exercise id="9">8. Alternating Leg Lifts</exercise>
+                        <exercise id="10">9. Oblique Wood Chops</exercise>
+                        <exercise id="11">10. Lower Back Extensions</exercise>
+                        <exercise id="12">11. GONZO CHALLENGE - 30 Alternating Kicks</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/5-1.jpg</image>
+                        <image id="2">./videos/thumbnails/5-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/5-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/5-3.jpg</image>
+                        <image id="5">./videos/thumbnails/5-4.jpg</image>
+                        <image id="6">./videos/thumbnails/5-5.jpg</image>
+                        <image id="7">./videos/thumbnails/5-6.jpg</image>
+                        <image id="8">./videos/thumbnails/5-7.jpg</image>
+                        <image id="9">./videos/thumbnails/5-8.jpg</image>
+                        <image id="10">./videos/thumbnails/5-9.jpg</image>
+                        <image id="11">./videos/thumbnails/5-10.jpg</image>
+                        <image id="12">./videos/thumbnails/5-11.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        
+                        <video id="1">./videos/G5/mobile/1.mp4</video>
+                        <video id="2">./videos/G5/mobile/2A.mp4</video>
+                        <video id="3">./videos/G5/mobile/2B.mp4</video>
+                        <video id="4">./videos/G5/mobile/3.mp4</video>
+                        <video id="5">./videos/G5/mobile/4.mp4</video>
+                        <video id="6">./videos/G5/mobile/5.mp4</video>
+                        <video id="7">./videos/G5/mobile/6.mp4</video>
+                        <video id="8">./videos/G5/mobile/7.mp4</video>
+                        <video id="9">./videos/G5/mobile/8.mp4</video>
+                        <video id="10">./videos/G5/mobile/9.mp4</video>
+                        <video id="11">./videos/G5/mobile/10.mp4</video>
+                        <video id="12">./videos/G5/mobile/11.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="6" exercises="13" type="workout">
+                    <name>Workout #6</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Jump rope </exercise>
+                        <exercise id="2">2. Sumo Stance Punches with Weight</exercise>
+                        <exercise id="3">3. Pushup with Straight Arm Fly </exercise>
+                        <exercise id="4">4. Squat to Side Kick </exercise>
+                        <exercise id="5">5. Flies on Swiss Ball</exercise>
+                        <exercise id="6">6. Snatch and Press </exercise>
+                        <exercise id="7">7. Plank</exercise>
+                        <exercise id="8">8. Dumbell Bench Press on Floor</exercise>
+                        <exercise id="9">9. Triceps Push Downs</exercise>
+                        <exercise id="10">10. Bent Over Double Arm Rows</exercise>
+                        <exercise id="11">11. Bicep Hammer Curls</exercise>
+                        <exercise id="12">12. Weighted Punches</exercise>
+                        <exercise id="13">13. GONZO CHALLENGE - 50 Lunges</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/6-1.jpg</image>
+                        <image id="2">./videos/thumbnails/6-2.jpg</image>
+                        <image id="3">./videos/thumbnails/6-3.jpg</image>
+                        <image id="4">./videos/thumbnails/6-4.jpg</image>
+                        <image id="5">./videos/thumbnails/6-5.jpg</image>
+                        <image id="6">./videos/thumbnails/6-6.jpg</image>
+                        <image id="7">./videos/thumbnails/6-7.jpg</image>
+                        <image id="8">./videos/thumbnails/6-8.jpg</image>
+                        <image id="9">./videos/thumbnails/6-9.jpg</image>
+                        <image id="10">./videos/thumbnails/6-10.jpg</image>
+                        <image id="11">./videos/thumbnails/6-11.jpg</image>
+                        <image id="12">./videos/thumbnails/6-12.jpg</image>
+                        <image id="13">./videos/thumbnails/6-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G6/mobile/1.mp4</video>
+                        <video id="2">./videos/G6/mobile/2.mp4</video>
+                        <video id="3">./videos/G6/mobile/3.mp4</video>
+                        <video id="4">./videos/G6/mobile/4.mp4</video>
+                        <video id="5">./videos/G6/mobile/5.mp4</video>
+                        <video id="6">./videos/G6/mobile/6.mp4</video>
+                        <video id="7">./videos/G6/mobile/7.mp4</video>
+                        <video id="8">./videos/G6/mobile/8.mp4</video>
+                        <video id="9">./videos/G6/mobile/9.mp4</video>
+                        <video id="10">./videos/G6/mobile/10.mp4</video>
+                        <video id="11">./videos/G6/mobile/11.mp4</video>
+                        <video id="12">./videos/G6/mobile/12.mp4</video>
+                        <video id="13">./videos/G6/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="7" exercises="13" type="workout">
+                    <name>Workout #7</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Running in Place with High Knees</exercise>
+                        <exercise id="2">2. Sumo Stance Blocks</exercise>
+                        <exercise id="3">3. Forward Lunge to Reverse Lunge on Step Platform</exercise>
+                        <exercise id="4">4. Side Plank Leg Lifts</exercise>
+                        <exercise id="5">5. Curl to Press with Bands</exercise>
+                        <exercise id="6">6. Swiss Ball Pushups</exercise>
+                        <exercise id="7">7. Alternating Shoulder Raises on Swiss Ball</exercise>
+                        <exercise id="8">8. Flies on swiss ball </exercise>
+                        <exercise id="9">9. Reverse Flies on Swiss Ball </exercise>
+                        <exercise id="10">10. Swiss Ball Triceps Press</exercise>
+                        <exercise id="11">11. Jack Knife Crunches</exercise>
+                        <exercise id="12">12. Pushup Over Step Platform</exercise>
+                        <exercise id="13">13. GONZO CHALLENGE - 15 Knee Raise Chin Ups</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/7-1.jpg</image>
+                        <image id="2">./videos/thumbnails/7-2.jpg</image>
+                        <image id="3">./videos/thumbnails/7-3.jpg</image>
+                        <image id="4">./videos/thumbnails/7-4.jpg</image>
+                        <image id="5">./videos/thumbnails/7-5.jpg</image>
+                        <image id="6">./videos/thumbnails/7-6.jpg</image>
+                        <image id="7">./videos/thumbnails/7-7.jpg</image>
+                        <image id="8">./videos/thumbnails/7-8.jpg</image>
+                        <image id="9">./videos/thumbnails/7-9.jpg</image>
+                        <image id="10">./videos/thumbnails/7-10.jpg</image>
+                        <image id="11">./videos/thumbnails/7-11.jpg</image>
+                        <image id="12">./videos/thumbnails/7-12.jpg</image>
+                        <image id="13">./videos/thumbnails/7-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G7/mobile/1.mp4</video>
+                        <video id="2">./videos/G7/mobile/2.mp4</video>
+                        <video id="3">./videos/G7/mobile/3.mp4</video>
+                        <video id="4">./videos/G7/mobile/4.mp4</video>
+                        <video id="5">./videos/G7/mobile/5.mp4</video>
+                        <video id="6">./videos/G7/mobile/6.mp4</video>
+                        <video id="7">./videos/G7/mobile/7.mp4</video>
+                        <video id="8">./videos/G7/mobile/8.mp4</video>
+                        <video id="9">./videos/G7/mobile/9.mp4</video>
+                        <video id="10">./videos/G7/mobile/10.mp4</video>
+                        <video id="11">./videos/G7/mobile/11.mp4</video>
+                        <video id="12">./videos/G7/mobile/12.mp4</video>
+                        <video id="13">./videos/G7/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="8" exercises="13" type="workout">
+                    <name>Workout #8</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Gonzo Jacks</exercise>
+                        <exercise id="2">2A. Shadow Boxing or Heavy Bag Boxing</exercise>
+                        <exercise id="3">2B. Shadow Boxing or Heavy Bag Boxing</exercise>
+                        <exercise id="4">3. Side Step to Swimmer's Press</exercise>
+                        <exercise id="5">4. Inch Worm Push Ups</exercise>
+                        <exercise id="6">5. 3 Position Pushups</exercise>
+                        <exercise id="7">6. Squat to Single Arm Raise</exercise>
+                        <exercise id="8">7. 45 Degree Bicep Curl </exercise>
+                        <exercise id="9">8. Triceps Dips on Bench and Swiss Ball </exercise>
+                        <exercise id="10">9. Alternating Bicep Curls</exercise>
+                        <exercise id="11">10. Triceps Overhead Press</exercise>
+                        <exercise id="12">11. Bicep Concentration Curls </exercise>
+                        <exercise id="13">12. Floor Triceps Extensions  </exercise>
+                        <exercise id="14">13. GONZO CHALLENGE - Pot Stirrers</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/8-1.jpg</image>
+                        <image id="2">./videos/thumbnails/8-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/8-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/8-3.jpg</image>
+                        <image id="5">./videos/thumbnails/8-4.jpg</image>
+                        <image id="6">./videos/thumbnails/8-5.jpg</image>
+                        <image id="7">./videos/thumbnails/8-6.jpg</image>
+                        <image id="8">./videos/thumbnails/8-7.jpg</image>
+                        <image id="9">./videos/thumbnails/8-8.jpg</image>
+                        <image id="10">./videos/thumbnails/8-9.jpg</image>
+                        <image id="11">./videos/thumbnails/8-10.jpg</image>
+                        <image id="12">./videos/thumbnails/8-11.jpg</image>
+                        <image id="13">./videos/thumbnails/8-12.jpg</image>
+                        <image id="14">./videos/thumbnails/8-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G8/mobile/1.mp4</video>
+                        <video id="2">./videos/G8/mobile/2A.mp4</video>
+                        <video id="3">./videos/G8/mobile/2B.mp4</video>
+                        <video id="4">./videos/G8/mobile/3.mp4</video>
+                        <video id="5">./videos/G8/mobile/4.mp4</video>
+                        <video id="6">./videos/G8/mobile/5.mp4</video>
+                        <video id="7">./videos/G8/mobile/6.mp4</video>
+                        <video id="8">./videos/G8/mobile/7.mp4</video>
+                        <video id="9">./videos/G8/mobile/8.mp4</video>
+                        <video id="10">./videos/G8/mobile/9.mp4</video>
+                        <video id="11">./videos/G8/mobile/10.mp4</video>
+                        <video id="12">./videos/G8/mobile/11.mp4</video>
+                        <video id="11">./videos/G8/mobile/12.mp4</video>
+                        <video id="12">./videos/G8/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="9" exercises="13" type="workout">
+                    <name>Workout #9</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Jump Rope</exercise>
+                        <exercise id="2">2A. Shadow Muay Thai or Heavy Bag Muay Thai</exercise>
+                        <exercise id="3">2B. Shadow Muay Thai or Heavy Bag Muay Thai</exercise>
+                        <exercise id="4">3. Squat, Row, Curl, Press</exercise>
+                        <exercise id="5">4. Single Leg Romanian Dead Lift</exercise>
+                        <exercise id="6">5. Pushups with Heel Drives</exercise>
+                        <exercise id="7">6. Side Kicks to Jump Kicks </exercise>
+                        <exercise id="8">7. Broad Jump to Reverse Run </exercise>
+                        <exercise id="9">8. Triceps Overhead Extensions with Bands</exercise>
+                        <exercise id="10">9. Burpee, Shrug, Toe Raise</exercise>
+                        <exercise id="11">10. Folsom Prison Pushups </exercise>
+                        <exercise id="12">11. Commando Pull Ups</exercise>
+                        <exercise id="13">12. Side Plank Elbow Touch</exercise>
+                        <exercise id="14">13. GONZO CHALLENGE - 25 Squat Thrusts to Front Kick</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/9-1.jpg</image>
+                        <image id="2">./videos/thumbnails/9-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/9-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/9-3.jpg</image>
+                        <image id="5">./videos/thumbnails/9-4.jpg</image>
+                        <image id="6">./videos/thumbnails/9-5.jpg</image>
+                        <image id="7">./videos/thumbnails/9-6.jpg</image>
+                        <image id="8">./videos/thumbnails/9-7.jpg</image>
+                        <image id="9">./videos/thumbnails/9-8.jpg</image>
+                        <image id="10">./videos/thumbnails/9-9.jpg</image>
+                        <image id="11">./videos/thumbnails/9-10.jpg</image>
+                        <image id="12">./videos/thumbnails/9-11.jpg</image>
+                        <image id="13">./videos/thumbnails/9-12.jpg</image>
+                        <image id="14">./videos/thumbnails/9-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G9/mobile/1.mp4</video>
+                        <video id="2">./videos/G9/mobile/2A.mp4</video>
+                        <video id="3">./videos/G9/mobile/2B.mp4</video>
+                        <video id="4">./videos/G9/mobile/3.mp4</video>
+                        <video id="5">./videos/G9/mobile/4.mp4</video>
+                        <video id="6">./videos/G9/mobile/5.mp4</video>
+                        <video id="7">./videos/G9/mobile/6.mp4</video>
+                        <video id="8">./videos/G9/mobile/7.mp4</video>
+                        <video id="9">./videos/G9/mobile/8.mp4</video>
+                        <video id="10">./videos/G9/mobile/9.mp4</video>
+                        <video id="11">./videos/G9/mobile/10.mp4</video>
+                        <video id="12">./videos/G9/mobile/11.mp4</video>
+                        <video id="11">./videos/G9/mobile/12.mp4</video>
+                        <video id="12">./videos/G9/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="10" exercises="15" type="workout">
+                    <name>Workout #10</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Running in Place with High Knees</exercise>
+                        <exercise id="2">2A. Shadow Kick Boxing </exercise>
+                        <exercise id="3">2B. Heavy Bag Kick Boxing</exercise>
+                        <exercise id="4">3. Straight Leg Dead Lift to Shrug</exercise>
+                        <exercise id="5">4. Front Kick to Back Kick</exercise>
+                        <exercise id="6">5. Back Extensions to Reverse Flies on Swiss Ball</exercise>
+                        <exercise id="7">6. Side Kick Pushups</exercise>
+                        <exercise id="8">7. Reverse Lunge to Side Kick </exercise>
+                        <exercise id="9">8. Arm and Leg Extension Plank</exercise>
+                        <exercise id="10">9. Upper Cut Shoulder Press</exercise>
+                        <exercise id="11">10. Reverse Grip Rows</exercise>
+                        <exercise id="12">11. Triceps Pushups</exercise>
+                        <exercise id="13">12. Curl to Lateral Raise</exercise>
+                        <exercise id="14">13. Sumo Goblet Squat to Press</exercise>
+                        <exercise id="15">14. Triangle Pushups</exercise>
+                        <exercise id="16">15. GONZO CHALLENGE - 25 Plank to Pike Pushups</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/10-1.jpg</image>
+                        <image id="2">./videos/thumbnails/10-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/10-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/10-3.jpg</image>
+                        <image id="5">./videos/thumbnails/10-4.jpg</image>
+                        <image id="6">./videos/thumbnails/10-5.jpg</image>
+                        <image id="7">./videos/thumbnails/10-6.jpg</image>
+                        <image id="8">./videos/thumbnails/10-7.jpg</image>
+                        <image id="9">./videos/thumbnails/10-8.jpg</image>
+                        <image id="10">./videos/thumbnails/10-9.jpg</image>
+                        <image id="11">./videos/thumbnails/10-10.jpg</image>
+                        <image id="12">./videos/thumbnails/10-11.jpg</image>
+                        <image id="13">./videos/thumbnails/10-12.jpg</image>
+                        <image id="14">./videos/thumbnails/10-13.jpg</image>
+                        <image id="15">./videos/thumbnails/10-14.jpg</image>
+                        <image id="16">./videos/thumbnails/10-15.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G10/mobile/1.mp4</video>
+                        <video id="2">./videos/G10/mobile/2A.mp4</video>
+                        <video id="3">./videos/G10/mobile/2B.mp4</video>
+                        <video id="4">./videos/G10/mobile/3.mp4</video>
+                        <video id="5">./videos/G10/mobile/4.mp4</video>
+                        <video id="6">./videos/G10/mobile/5.mp4</video>
+                        <video id="7">./videos/G10/mobile/6.mp4</video>
+                        <video id="8">./videos/G10/mobile/7.mp4</video>
+                        <video id="9">./videos/G10/mobile/8.mp4</video>
+                        <video id="10">./videos/G10/mobile/9.mp4</video>
+                        <video id="11">./videos/G10/mobile/10.mp4</video>
+                        <video id="12">./videos/G10/mobile/11.mp4</video>
+                        <video id="13">./videos/G10/mobile/12.mp4</video>
+                        <video id="14">./videos/G10/mobile/13.mp4</video>
+                        <video id="15">./videos/G10/mobile/14.mp4</video>
+                        <video id="16">./videos/G10/mobile/15.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="11" exercises="13" type="workout">
+                    <name>Workout #11</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Gonzo Jacks</exercise>
+                        <exercise id="2">2A. Shadow Boxing</exercise>
+                        <exercise id="3">2B. Heavy Bag Boxing</exercise>
+                        <exercise id="4">3. Weighted Punch Combo</exercise>
+                        <exercise id="5">4. Squat to Upright Row </exercise>
+                        <exercise id="6">5. Staggered Grip Single Leg Pushups</exercise>
+                        <exercise id="7">6. Platform Knee Drives</exercise>
+                        <exercise id="8">7. Swiss Ball Dead Lift to Hammer Curl to Press</exercise>
+                        <exercise id="9">8. Core Crunch</exercise>
+                        <exercise id="10">9. Row to Reverse Fly to Upright Row</exercise>
+                        <exercise id="11">10. Bench Press to Fly on Swiss Ball</exercise>
+                        <exercise id="12">11. Single Arm Triceps Overhead Extensions on Swiss Ball</exercise>
+                        <exercise id="13">12. Wide Grip Chin Ups</exercise>
+                        <exercise id="14">13. GONZO CHALLENGE - Running in Place - 2:00</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/11-1.jpg</image>
+                        <image id="2">./videos/thumbnails/11-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/11-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/11-3.jpg</image>
+                        <image id="5">./videos/thumbnails/11-4.jpg</image>
+                        <image id="6">./videos/thumbnails/11-5.jpg</image>
+                        <image id="7">./videos/thumbnails/11-6.jpg</image>
+                        <image id="8">./videos/thumbnails/11-7.jpg</image>
+                        <image id="9">./videos/thumbnails/11-8.jpg</image>
+                        <image id="10">./videos/thumbnails/11-9.jpg</image>
+                        <image id="11">./videos/thumbnails/11-10.jpg</image>
+                        <image id="12">./videos/thumbnails/11-11.jpg</image>
+                        <image id="13">./videos/thumbnails/11-12.jpg</image>
+                        <image id="14">./videos/thumbnails/11-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G11/mobile/1.mp4</video>
+                        <video id="2">./videos/G11/mobile/2A.mp4</video>
+                        <video id="3">./videos/G11/mobile/2B.mp4</video>
+                        <video id="4">./videos/G11/mobile/3.mp4</video>
+                        <video id="5">./videos/G11/mobile/4.mp4</video>
+                        <video id="6">./videos/G11/mobile/5.mp4</video>
+                        <video id="7">./videos/G11/mobile/6.mp4</video>
+                        <video id="8">./videos/G11/mobile/7.mp4</video>
+                        <video id="9">./videos/G11/mobile/8.mp4</video>
+                        <video id="10">./videos/G11/mobile/9.mp4</video>
+                        <video id="11">./videos/G11/mobile/10.mp4</video>
+                        <video id="12">./videos/G11/mobile/11.mp4</video>
+                        <video id="13">./videos/G11/mobile/12.mp4</video>
+                        <video id="14">./videos/G11/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="12" exercises="13" type="workout">
+                    <name>Workout #12</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Jump Rope</exercise>
+                        <exercise id="2">2A. Shadow Muay Thai</exercise>
+                        <exercise id="3">2B. Heavy Bag Muay Thai</exercise>
+                        <exercise id="4">3. Step Up Curl to Press </exercise>
+                        <exercise id="5">4. Squat Kick to Squat Upper Cut</exercise>
+                        <exercise id="6">5. Pushup Position Row to Knee Drive</exercise>
+                        <exercise id="7">6. Hand to Toe Touch </exercise>
+                        <exercise id="8">7. Dumbbell Hammer Curl to Press to Triceps Extension</exercise>
+                        <exercise id="9">8. Knee to Opposite Elbow Pushups</exercise>
+                        <exercise id="10">9. Swiss Ball Pull Overs</exercise>
+                        <exercise id="11">10. Dead Lift to Shoulder Raise to Curl</exercise>
+                        <exercise id="12">11. Pushup to Pull Up</exercise>
+                        <exercise id="13">12. Sumo Squat Knee Raises </exercise>
+                        <exercise id="14">13. GONZO CHALLENGE - Pull Up Hangers - 1:00</exercise>
+                    </exercises>
+                    
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/12-1.jpg</image>
+                        <image id="2">./videos/thumbnails/12-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/12-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/12-3.jpg</image>
+                        <image id="5">./videos/thumbnails/12-4.jpg</image>
+                        <image id="6">./videos/thumbnails/12-5.jpg</image>
+                        <image id="7">./videos/thumbnails/12-6.jpg</image>
+                        <image id="8">./videos/thumbnails/12-7.jpg</image>
+                        <image id="9">./videos/thumbnails/12-8.jpg</image>
+                        <image id="10">./videos/thumbnails/12-9.jpg</image>
+                        <image id="11">./videos/thumbnails/12-10.jpg</image>
+                        <image id="12">./videos/thumbnails/12-11.jpg</image>
+                        <image id="13">./videos/thumbnails/12-12.jpg</image>
+                        <image id="14">./videos/thumbnails/12-13.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G12/mobile/1.mp4</video>
+                        <video id="2">./videos/G12/mobile/2A.mp4</video>
+                        <video id="3">./videos/G12/mobile/2B.mp4</video>
+                        <video id="4">./videos/G12/mobile/3.mp4</video>
+                        <video id="5">./videos/G12/mobile/4.mp4</video>
+                        <video id="6">./videos/G12/mobile/5.mp4</video>
+                        <video id="7">./videos/G12/mobile/6.mp4</video>
+                        <video id="8">./videos/G12/mobile/7.mp4</video>
+                        <video id="9">./videos/G12/mobile/8.mp4</video>
+                        <video id="10">./videos/G12/mobile/9.mp4</video>
+                        <video id="11">./videos/G12/mobile/10.mp4</video>
+                        <video id="12">./videos/G12/mobile/11.mp4</video>
+                        <video id="13">./videos/G12/mobile/12.mp4</video>
+                        <video id="14">./videos/G12/mobile/13.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="13" exercises="16" type="workout">
+                    <name>Workout #13</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Running in Place with High Knees </exercise>
+                        <exercise id="2">2A. Shadow Kick Boxing </exercise>
+                        <exercise id="3">2B. Heavy Bag Kick Boxing</exercise>
+                        <exercise id="4">3. Muay Thai Elbow Combo</exercise>
+                        <exercise id="5">4. Lunge to Press - Reverse Lunge to Curl </exercise>
+                        <exercise id="6">5. Pushup to Deadlift to Shoulder Raise</exercise>
+                        <exercise id="7">6. Sit Up to Plant on Step Platform</exercise>
+                        <exercise id="8">7. Hand Position Pushups</exercise>
+                        <exercise id="9">8. Wall Squat Curls with Swiss Ball</exercise>
+                        <exercise id="10">9. Bicycle Crunches </exercise>
+                        <exercise id="11">10. Curl to Squat Thrust</exercise>
+                        <exercise id="12">11. Rows to Back Extensions</exercise>
+                        <exercise id="13">12. Goblet Lunge to Oblique Twist</exercise>
+                        <exercise id="14">13. Gonzo Full Body Blasts  </exercise>
+                        <exercise id="15">14. Upright Row to Snatch to Press to Triceps Ext.</exercise>
+                        <exercise id="16">15. Dumbbell Crunch on Swiss Ball </exercise>
+                        <exercise id="17">16. GONZO CHALLENGE - 50 Lunge Punches</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/13-1.jpg</image>
+                        <image id="2">./videos/thumbnails/13-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/13-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/13-3.jpg</image>
+                        <image id="5">./videos/thumbnails/13-4.jpg</image>
+                        <image id="6">./videos/thumbnails/13-5.jpg</image>
+                        <image id="7">./videos/thumbnails/13-6.jpg</image>
+                        <image id="8">./videos/thumbnails/13-7.jpg</image>
+                        <image id="9">./videos/thumbnails/13-8.jpg</image>
+                        <image id="10">./videos/thumbnails/13-9.jpg</image>
+                        <image id="11">./videos/thumbnails/13-10.jpg</image>
+                        <image id="12">./videos/thumbnails/13-11.jpg</image>
+                        <image id="13">./videos/thumbnails/13-12.jpg</image>
+                        <image id="14">./videos/thumbnails/13-13.jpg</image>
+                        <image id="15">./videos/thumbnails/13-14.jpg</image>
+                        <image id="16">./videos/thumbnails/13-15.jpg</image>
+                        <image id="17">./videos/thumbnails/13-16.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        
+                        <video id="1">./videos/G13/mobile/1.mp4</video>
+                        <video id="2">./videos/G13/mobile/2A.mp4</video>
+                        <video id="3">./videos/G13/mobile/2B.mp4</video>
+                        <video id="4">./videos/G13/mobile/3.mp4</video>
+                        <video id="5">./videos/G13/mobile/4.mp4</video>
+                        <video id="6">./videos/G13/mobile/5.mp4</video>
+                        <video id="7">./videos/G13/mobile/6.mp4</video>
+                        <video id="8">./videos/G13/mobile/7.mp4</video>
+                        <video id="9">./videos/G13/mobile/8.mp4</video>
+                        <video id="10">./videos/G13/mobile/9.mp4</video>
+                        <video id="11">./videos/G13/mobile/10.mp4</video>
+                        <video id="12">./videos/G13/mobile/11.mp4</video>
+                        <video id="13">./videos/G13/mobile/12.mp4</video>
+                        <video id="14">./videos/G13/mobile/13.mp4</video>
+                        <video id="15">./videos/G13/mobile/14.mp4</video>
+                        <video id="16">./videos/G13/mobile/15.mp4</video>
+                        <video id="17">./videos/G13/mobile/16.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="14" exercises="15" type="workout">
+                    <name>Workout #14</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Gonzo Jacks</exercise> 
+                        <exercise id="2">2A. Free Style MMA</exercise>	
+                        <exercise id="3">2B. Heavy Bag MMA</exercise>
+                        <exercise id="4">3. Sumo Stance Squat to Upright Row</exercise>
+                        <exercise id="5">4. Reverse Lunge to Block and Punch</exercise>
+                        <exercise id="6">5. Hand Stand Pushups</exercise>
+                        <exercise id="7">6. Pushup to Core Crunch</exercise>
+                        <exercise id="8">7. Alternating Presses on Swiss Ball</exercise>
+                        <exercise id="9">8. Alternating Bench Press to Fly on Swiss Ball</exercise>
+                        <exercise id="10">9. Row to Back Extension to Shrug  </exercise>
+                        <exercise id="11">10. Single Arm Curls </exercise>
+                        <exercise id="12">11. Chin Up Position Ls</exercise>
+                        <exercise id="13">12. Triceps Extension to Curl to Press to Triceps Overhead Extension</exercise>
+                        <exercise id="14">13. Commando Pull Up to Knee Raise</exercise>
+                        <exercise id="15">14. Dead Lift to Lateral Raise to Double Upper Cut</exercise>
+                        <exercise id="16">15. GONZO CHALLENGE - 20 Curls to Presses on Swiss Ball</exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/14-1.jpg</image>
+                        <image id="2">./videos/thumbnails/14-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/14-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/14-3.jpg</image>
+                        <image id="5">./videos/thumbnails/14-4.jpg</image>
+                        <image id="6">./videos/thumbnails/14-5.jpg</image>
+                        <image id="7">./videos/thumbnails/14-6.jpg</image>
+                        <image id="8">./videos/thumbnails/14-7.jpg</image>
+                        <image id="9">./videos/thumbnails/14-8.jpg</image>
+                        <image id="10">./videos/thumbnails/14-9.jpg</image>
+                        <image id="11">./videos/thumbnails/14-10.jpg</image>
+                        <image id="12">./videos/thumbnails/14-11.jpg</image>
+                        <image id="13">./videos/thumbnails/14-12.jpg</image>
+                        <image id="14">./videos/thumbnails/14-13.jpg</image>
+                        <image id="15">./videos/thumbnails/14-14.jpg</image>
+                        <image id="16">./videos/thumbnails/14-15.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G14/mobile/1.mp4</video>
+                        <video id="2">./videos/G14/mobile/2A.mp4</video>
+                        <video id="3">./videos/G14/mobile/2B.mp4</video>
+                        <video id="4">./videos/G14/mobile/3.mp4</video>
+                        <video id="5">./videos/G14/mobile/4.mp4</video>
+                        <video id="6">./videos/G14/mobile/5.mp4</video>
+                        <video id="7">./videos/G14/mobile/6.mp4</video>
+                        <video id="8">./videos/G14/mobile/7.mp4</video>
+                        <video id="9">./videos/G14/mobile/8.mp4</video>
+                        <video id="10">./videos/G14/mobile/9.mp4</video>
+                        <video id="11">./videos/G14/mobile/10.mp4</video>
+                        <video id="12">./videos/G14/mobile/11.mp4</video>
+                        <video id="13">./videos/G14/mobile/12.mp4</video>
+                        <video id="14">./videos/G14/mobile/13.mp4</video>
+                        <video id="15">./videos/G14/mobile/14.mp4</video>
+                        <video id="16">./videos/G14/mobile/15.mp4</video>
+                    </videos>
+                    
+                </workout>
+                <workout id="15" exercises="15" type="workout">
+                    <name>Workout #15</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Gonzo Jacks </exercise>
+                        <exercise id="2">2A. Freestyle MMA</exercise>
+                        <exercise id="3">2B. Heavy Bag Freestyle MMA</exercise>
+                        
+                        <exercise id="4">3. Core Crunch</exercise>
+                        <exercise id="5">4. Oblique Wood Chops</exercise>
+                        <exercise id="6">5. Oblique Twists </exercise>
+                        <exercise id="7">6. Crunches on Swiss Ball - Straight to Alternating Twists</exercise>
+                        <exercise id="8">7. Lower Back Extensions </exercise>
+                        <exercise id="9">8. Swiss Ball Knee Raises </exercise>
+                        <exercise id="10">9. Side Plank Elbow Touch</exercise>
+                        <exercise id="11">10. Jack Knife Crunches</exercise>
+                        <exercise id="12">11. Pot Stirrers</exercise>
+                        <exercise id="13">12. Hand to Toe Touch</exercise>
+                        <exercise id="14">13. Sit Up to Plant </exercise>
+                        <exercise id="15">14. L's and Knee Raises</exercise>
+                        <exercise id="16">15. GONZO CHALLENGE - 25 Swiss Ball Leg Lifts </exercise>
+                    </exercises>
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/15-1.jpg</image>
+                        <image id="2">./videos/thumbnails/15-2A.jpg</image>
+                        <image id="3">./videos/thumbnails/15-2B.jpg</image>
+                        <image id="4">./videos/thumbnails/15-3.jpg</image>
+                        <image id="5">./videos/thumbnails/15-4.jpg</image>
+                        <image id="6">./videos/thumbnails/15-5.jpg</image>
+                        <image id="7">./videos/thumbnails/15-6.jpg</image>
+                        <image id="8">./videos/thumbnails/15-7.jpg</image>
+                        <image id="9">./videos/thumbnails/15-8.jpg</image>
+                        <image id="10">./videos/thumbnails/15-9.jpg</image>
+                        <image id="11">./videos/thumbnails/15-10.jpg</image>
+                        <image id="12">./videos/thumbnails/15-11.jpg</image>
+                        <image id="13">./videos/thumbnails/15-12.jpg</image>
+                        <image id="14">./videos/thumbnails/15-13.jpg</image>
+                        <image id="15">./videos/thumbnails/15-14.jpg</image>
+                        <image id="16">./videos/thumbnails/15-15.jpg</image>	
+                    </images>
+                    
+                    <videos>
+                        
+                        <video id="1">./videos/G15/mobile/1.mp4</video>
+                        <video id="2">./videos/G15/mobile/2A.mp4</video>
+                        <video id="3">./videos/G15/mobile/2B.mp4</video>
+                        <video id="4">./videos/G15/mobile/3.mp4</video>
+                        <video id="5">./videos/G15/mobile/4.mp4</video>
+                        <video id="6">./videos/G15/mobile/5.mp4</video>
+                        <video id="7">./videos/G15/mobile/6.mp4</video>
+                        <video id="8">./videos/G15/mobile/7.mp4</video>
+                        <video id="9">./videos/G15/mobile/8.mp4</video>
+                        <video id="10">./videos/G15/mobile/9.mp4</video>
+                        <video id="11">./videos/G15/mobile/10.mp4</video>
+                        <video id="12">./videos/G15/mobile/11.mp4</video>
+                        <video id="13">./videos/G15/mobile/12.mp4</video>
+                        <video id="14">./videos/G15/mobile/13.mp4</video>
+                        <video id="15">./videos/G15/mobile/14.mp4</video>
+                        <video id="16">./videos/G15/mobile/15.mp4</video> 
+                    </videos>
+                    
+                </workout>
+                <workout id="16" exercises="21" type="workout">
+                    <name>Stretch Session</name>
+                    
+                    <exercises>
+                        <exercise id="1">1. Cobra</exercise>
+                        <exercise id="2">2. Side Cobra </exercise>
+                        <exercise id="3">3. Back and Shoulder Stretch</exercise>
+                        <exercise id="4">4. Trunk Rotation</exercise>
+                        <exercise id="5">5. Cat and Camel </exercise>
+                        <exercise id="6">6. Hip Flexor Stretch</exercise>
+                        <exercise id="7">7. Groin Stretch</exercise>
+                        <exercise id="8">8. Downward Dog </exercise>
+                        <exercise id="9">9. Hamstring Stretch </exercise>
+                        <exercise id="10">10. Runner's Stretch</exercise>
+                        <exercise id="11">11. Chest Stretch </exercise>
+                        <exercise id="12">12. Bicep Stretch</exercise>
+                        <exercise id="13">13. Triceps Stretch</exercise>
+                        <exercise id="14">14. Bent Over Shoulder Stretch</exercise>
+                        <exercise id="15">15. Cross Shoulder Stretch</exercise>
+                        <exercise id="16">16. Slow Shoulder Roll</exercise>
+                        <exercise id="17">17. Towel Shoulder Stretch </exercise>
+                        <exercise id="18">18. Forward Neck Stretch </exercise>
+                        <exercise id="19">19. Side Neck Stretch</exercise>
+                        <exercise id="20">20. Backward Neck Stretch </exercise>
+                        <exercise id="21">21. Quadriceps Stretch</exercise>			
+                    </exercises>
+                    
+                    
+                    <images>
+                        <image id="1">./videos/thumbnails/16-1.jpg</image>
+                        <image id="2">./videos/thumbnails/16-2.jpg</image>
+                        <image id="3">./videos/thumbnails/16-3.jpg</image>
+                        <image id="4">./videos/thumbnails/16-4.jpg</image>
+                        <image id="5">./videos/thumbnails/16-5.jpg</image>
+                        <image id="6">./videos/thumbnails/16-6.jpg</image>
+                        <image id="7">./videos/thumbnails/16-7.jpg</image>
+                        <image id="8">./videos/thumbnails/16-8.jpg</image>
+                        <image id="9">./videos/thumbnails/16-9.jpg</image>
+                        <image id="10">./videos/thumbnails/16-10.jpg</image>
+                        <image id="11">./videos/thumbnails/16-11.jpg</image>
+                        <image id="12">./videos/thumbnails/16-12.jpg</image>
+                        <image id="13">./videos/thumbnails/16-13.jpg</image>
+                        <image id="14">./videos/thumbnails/16-14.jpg</image>
+                        <image id="15">./videos/thumbnails/16-15.jpg</image>
+                        <image id="16">./videos/thumbnails/16-16.jpg</image>
+                        <image id="17">./videos/thumbnails/16-17.jpg</image>
+                        <image id="18">./videos/thumbnails/16-18.jpg</image>
+                        <image id="19">./videos/thumbnails/16-19.jpg</image>
+                        <image id="20">./videos/thumbnails/16-20.jpg</image>
+                        <image id="21">./videos/thumbnails/16-21.jpg</image>
+                    </images>
+                    
+                    <videos>
+                        <video id="1">./videos/G16/mobile/1.mp4</video>
+                        <video id="2">./videos/G16/mobile/2.mp4</video>
+                        <video id="3">./videos/G16/mobile/3.mp4</video>
+                        <video id="4">./videos/G16/mobile/4.mp4</video>
+                        <video id="5">./videos/G16/mobile/5.mp4</video>
+                        <video id="6">./videos/G16/mobile/6.mp4</video>
+                        <video id="7">./videos/G16/mobile/7.mp4</video>
+                        <video id="8">./videos/G16/mobile/8.mp4</video>
+                        <video id="9">./videos/G16/mobile/9.mp4</video>
+                        <video id="10">./videos/G16/mobile/10.mp4</video>
+                        <video id="11">./videos/G16/mobile/11.mp4</video>
+                        <video id="12">./videos/G16/mobile/12.mp4</video>
+                        <video id="13">./videos/G16/mobile/13.mp4</video>
+                        <video id="14">./videos/G16/mobile/14.mp4</video>
+                        <video id="15">./videos/G16/mobile/15.mp4</video>
+                        <video id="16">./videos/G16/mobile/16.mp4</video>
+                        <video id="17">./videos/G16/mobile/17.mp4</video>
+                        <video id="18">./videos/G16/mobile/18.mp4</video>
+                        <video id="19">./videos/G16/mobile/19.mp4</video>
+                        <video id="20">./videos/G16/mobile/20.mp4</video>
+                        <video id="21">./videos/G16/mobile/21.mp4</video> 		 
+                    </videos>
+                    
+                </workout>
+    </workouts>
+</data>
